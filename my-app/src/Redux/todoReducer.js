@@ -1,10 +1,10 @@
 const initialState = {
     data : [
         {
-        id: 1,
+        id: 341564354002,
         name: "Complete the todo list application",
         status:false,
-        deadline:"25/03/22, 11:59 A.M."
+        deadline:"2022-03-21, 11:59 "
         }
     ]
 }
